@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jscs . --reporter node_modules/jscs-teamcity-reporter/teamcity-reporter.js"
   },
   "author": "",
   "license": "ISC",
