@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jscs-teamcity-reporter": "0.0.3"
+    "jscs-teamcity-reporter": "0.0.4"
   }
 }
